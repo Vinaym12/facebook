@@ -1,3 +1,1 @@
-Now we have push files from local to cloud,which looks interesting
-Disha 
-Prabas
+Git Add,Commit
